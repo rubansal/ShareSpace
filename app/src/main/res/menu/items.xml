@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/viewUploads"
+        android:title="View Uploads"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/invite"
+        android:title="Invite Friends"
+        app:showAsAction="never"/>
+
+    <!--<item-->
+        <!--android:id="@+id/syllabus"-->
+        <!--android:title="Syllabus"-->
+        <!--app:showAsAction="never"/>-->
+
+    <item
+        android:id="@+id/viewDownloads"
+        android:title="View Downloads"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/signOut"
+        android:title="Sign Out"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/deleteAccount"
+        android:title="Delete Account"
+        app:showAsAction="never"/>
+
+</menu>

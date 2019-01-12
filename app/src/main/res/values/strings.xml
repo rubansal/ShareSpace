@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Share Space</string>
+    <string-array name="branch_array">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>IT</item>
+        <item>EEE</item>
+    </string-array>
+    <string-array name="semester_array">
+        <item>sem1</item>
+        <item>sem2</item>
+        <item>sem3</item>
+        <item>sem4</item>
+        <item>sem5</item>
+        <item>sem6</item>
+        <item>sem7</item>
+        <item>sem8</item>
+    </string-array>
+
+    <string name="invitation_title">"invitation tilte"</string>
+    <string name="invitation_message">"invitation message"</string>
+    <string name="invitation_deep_link">"invitation deep link"</string>
+    <string name="invitation_custom_image">"invitation custom image"</string>
+    <string name="invitation_cta">"invitation cta"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--<string name="facebook_app_id">1075129922667687</string>
+    <string name="fb_login_protocol_scheme">fb1075129922667687</string>-->
+</resources>

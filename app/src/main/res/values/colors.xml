@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4cb5ab</color>
+    <color name="colorPrimaryDark">#00857c</color>
+    <color name="colorAccent">#4cb5ab</color>
+    <color name="A">#ef5350</color>
+    <color name="B">#ffcdd2</color>
+    <color name="C">#ce93d8</color>
+    <color name="D">#ea80fc</color>
+    <color name="E">#7e57c2</color>
+    <color name="F">#64b5f6</color>
+    <color name="G">#448aff</color>
+    <color name="H">#18ffff</color>
+    <color name="I">#4db6ac</color>
+    <color name="J">#1de9b6</color>
+    <color name="K">#00e676</color>
+    <color name="L">#dce775</color>
+    <color name="M">#ffeb3b</color>
+    <color name="N">#ffd740</color>
+    <color name="O">#ff3d00</color>
+    <color name="P">#689f38</color>
+    <color name="Q">#b2ff59</color>
+    <color name="R">#ffea00</color>
+    <color name="S">#ff6d00</color>
+    <color name="T">#651fff</color>
+    <color name="U">#d500f9</color>
+    <color name="V">#ff4081</color>
+    <color name="W">#ff1744</color>
+    <color name="X">#aeea00</color>
+    <color name="Y">#00b5a5</color>
+    <color name="Z">#2962ff</color>
+    <color name="white">#ffffff</color>
+    <color name="tabBackground">#4cb5ab</color>
+</resources>
